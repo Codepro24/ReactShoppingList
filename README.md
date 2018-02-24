@@ -1,2 +1,0 @@
-# ReactShoppingList
-Created with CodeSandbox
