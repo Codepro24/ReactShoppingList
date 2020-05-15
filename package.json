@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "shopping-list",
   "version": "0.1.0",
   "private": true,
@@ -16,13 +17,37 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+=======
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-dom": ">=16.2.1",
+    "react-scripts": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+>>>>>>> 578f60c75765c78251a913eabe7a80ff8cfd173d
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
+<<<<<<< HEAD
   ],
   "devDependencies": {
     "prettier": "2.0.5"
   }
+=======
+  ]
+>>>>>>> 578f60c75765c78251a913eabe7a80ff8cfd173d
 }
